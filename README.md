@@ -5,6 +5,9 @@
 ![Contributors](https://img.shields.io/github/contributors/goutamhegde002/DSA-Roadmap-for-Beginners)
 ![Issues](https://img.shields.io/github/issues/goutamhegde002/DSA-Roadmap-for-Beginners)
 
+![DSA Roadmap](https://github.com/goutamhegde002/DSA-Roadmap-for-Beginners/blob/main/Image.png?raw=true)
+
+
 This project provides a comprehensive learning roadmap for Data Structures and Algorithms (DSA). Follow along to build a strong foundation for competitive programming and technical interviews.
 
 ---
