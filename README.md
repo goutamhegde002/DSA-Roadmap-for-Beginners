@@ -1,10 +1,9 @@
-# DSA Road Map 📚
+# DSA Roadmap for Beginners 📚
 
-![GitHub stars](https://img.shields.io/github/stars/goutamhegde002/dsaTracker?style=social)
-![GitHub forks](https://img.shields.io/github/forks/goutamhegde002/dsaTracker?style=social)
-![Contributors](https://img.shields.io/github/contributors/goutamhegde002/dsaTracker)
-![Issues](https://img.shields.io/github/issues/goutamhegde002/dsaTracker)
-![License](https://img.shields.io/github/license/goutamhegde002/dsaTracker)
+![GitHub stars](https://img.shields.io/github/stars/yourusername/DSA-Roadmap-for-Beginners?style=social)
+![GitHub forks](https://img.shields.io/github/forks/yourusername/DSA-Roadmap-for-Beginners?style=social)
+![Contributors](https://img.shields.io/github/contributors/yourusername/DSA-Roadmap-for-Beginners)
+![Issues](https://img.shields.io/github/issues/yourusername/DSA-Roadmap-for-Beginners)
 
 This project provides a comprehensive learning roadmap for Data Structures and Algorithms (DSA). Follow along to build a strong foundation for competitive programming and technical interviews.
 
