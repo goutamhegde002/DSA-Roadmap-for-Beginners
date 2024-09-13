@@ -1,10 +1,10 @@
-# DSA Learning Tracker 📚
+# DSA Road Map 📚
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/dsaTracker?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/dsaTracker?style=social)
-![Contributors](https://img.shields.io/github/contributors/yourusername/dsaTracker)
-![Issues](https://img.shields.io/github/issues/yourusername/dsaTracker)
-![License](https://img.shields.io/github/license/yourusername/dsaTracker)
+![GitHub stars](https://img.shields.io/github/stars/goutamhegde002/dsaTracker?style=social)
+![GitHub forks](https://img.shields.io/github/forks/goutamhegde002/dsaTracker?style=social)
+![Contributors](https://img.shields.io/github/contributors/goutamhegde002/dsaTracker)
+![Issues](https://img.shields.io/github/issues/goutamhegde002/dsaTracker)
+![License](https://img.shields.io/github/license/goutamhegde002/dsaTracker)
 
 This project provides a comprehensive learning roadmap for Data Structures and Algorithms (DSA). Follow along to build a strong foundation for competitive programming and technical interviews.
 
@@ -396,10 +396,10 @@ Fenwick Tree, also known as Binary Indexed Tree (BIT), is a specialized data str
 #### 🛠️ Resources to Learn Fenwick Tree:
 - [GeeksforGeeks: Fenwick Tree](https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/)
 
-## Algorithmic Paradigms
+# Algorithmic Paradigms
 Algorithmic Paradigms are fundamental approaches to solving problems that are categorized based on their strategies and methodologies. This section covers various paradigms including Brute Force, Divide and Conquer, Greedy Algorithms, Dynamic Programming, Backtracking, Sliding Window Technique, and Two Pointer Technique. It also includes advanced optimization techniques like Divide and Conquer Optimization.
 
-### Brute Force
+## Brute Force
 Brute Force is a straightforward approach to problem-solving that exhaustively tries all possibilities and selects the best solution. It is typically used when the problem size is small or when no more efficient algorithms are known. Brute Force algorithms are easy to implement but may be inefficient for large input sizes due to their exponential time complexity.
 
 #### Key Points:
@@ -411,7 +411,7 @@ Brute Force is a straightforward approach to problem-solving that exhaustively t
 
 ---
 
-### Divide and Conquer
+## Divide and Conquer
 Divide and Conquer is a problem-solving paradigm that breaks a problem into smaller subproblems, solves these subproblems recursively, and then combines their solutions to solve the original problem. It is useful for problems that can be divided into independent parts, such as sorting algorithms like Merge Sort and Quick Sort.
 
 #### Key Points:
@@ -423,7 +423,7 @@ Divide and Conquer is a problem-solving paradigm that breaks a problem into smal
 
 ---
 
-### Greedy Algorithms
+## Greedy Algorithms
 Greedy Algorithms make locally optimal choices at each step with the hope of finding a global optimum. They are used for optimization problems where a solution must be constructed step by step, such as in Minimum Spanning Tree algorithms like Prim's and Kruskal's algorithms.
 
 #### Key Points:
@@ -435,7 +435,7 @@ Greedy Algorithms make locally optimal choices at each step with the hope of fin
 
 ---
 
-### Dynamic Programming
+## Dynamic Programming
 Dynamic Programming is a method for solving complex problems by breaking them down into simpler subproblems and storing the results of these subproblems to avoid redundant computations. It is particularly useful for optimization problems where the solution can be recursively computed from optimal solutions of its subproblems, such as in Fibonacci sequence calculation and shortest path algorithms like Floyd-Warshall algorithm.
 
 #### Key Points:
@@ -447,7 +447,7 @@ Dynamic Programming is a method for solving complex problems by breaking them do
 
 ---
 
-### Backtracking
+## Backtracking
 Backtracking is a depth-first search (DFS) based approach to solve problems by exploring all possible solutions. It incrementally builds candidates to the solution and abandons a candidate ("backtracks") as soon as it determines that the candidate cannot possibly be completed to a valid solution. Backtracking is used for constraint satisfaction problems like N-Queens and Sudoku.
 
 #### Key Points:
@@ -459,7 +459,7 @@ Backtracking is a depth-first search (DFS) based approach to solve problems by e
 
 ---
 
-### Sliding Window Technique
+## Sliding Window Technique
 The Sliding Window Technique is used to perform a series of operations on a specific window or subarray of an array. It optimizes operations from O(n^2) to O(n) by avoiding the re-computation of results for overlapping windows. This technique is commonly used in problems involving substring or subarray computation, such as finding maximum or minimum values in a fixed-size window of elements.
 
 #### Key Points:
@@ -471,7 +471,7 @@ The Sliding Window Technique is used to perform a series of operations on a spec
 
 ---
 
-### Two Pointer Technique
+## Two Pointer Technique
 The Two Pointer Technique is an algorithmic approach that uses two pointers to solve problems efficiently. It is often used for problems involving sorted arrays or linked lists, where the pointers manipulate elements in the data structure to find a solution. Common applications include finding pairs in sorted arrays that sum up to a target value or detecting cycles in linked lists.
 
 #### Key Points:
@@ -483,7 +483,7 @@ The Two Pointer Technique is an algorithmic approach that uses two pointers to s
 
 ---
 
-### Divide and Conquer Optimization
+## Divide and Conquer Optimization
 Divide and Conquer Optimization techniques improve upon standard divide and conquer algorithms by enhancing efficiency or solving additional problems. Examples include the Merge Sort Tree, which combines segment tree and binary search to efficiently answer range queries in static arrays, and the Persistent Segment Tree, which allows efficient updates and queries on immutable arrays.
 
 #### Key Points:
@@ -493,7 +493,7 @@ Divide and Conquer Optimization techniques improve upon standard divide and conq
 #### 🛠️ Resources to Learn Divide and Conquer Optimization:
 - [GeeksforGeeks: Divide and Conquer Optimization](https://www.geeksforgeeks.org/advanced-data-structures/)
 
-#### Merge Sort Tree
+### Merge Sort Tree
 Merge Sort Tree is an advanced data structure that combines the properties of merge sort and segment tree. It is used for answering range queries and updates efficiently on static arrays where the data does not change once created. Merge Sort Tree enhances the capabilities of traditional divide and conquer algorithms by providing logarithmic time complexity for both updates and queries.
 
 #### Key Points:
@@ -505,7 +505,7 @@ Merge Sort Tree is an advanced data structure that combines the properties of me
 
 ---
 
-#### Persistent Segment Tree
+### Persistent Segment Tree
 Persistent Segment Tree is a variant of the segment tree that supports efficient updates and queries on immutable arrays. It allows multiple versions (or snapshots) of the data structure to be maintained simultaneously, enabling historical queries and rollback operations in dynamic programming scenarios. Persistent Segment Trees optimize the memory usage and time complexity of traditional segment trees for problems requiring persistent data states.
 
 #### Key Points:
@@ -639,10 +639,10 @@ Heap Sort is a comparison-based sorting algorithm that uses a binary heap data s
 #### 🛠️ Resources to Learn Heap Sort:
 - [GeeksforGeeks: Heap Sort](https://www.geeksforgeeks.org/heap-sort/)
 
-## Graph Algorithms
+# Graph Algorithms
 Graph Algorithms are techniques used to solve problems related to graph structures. This section covers fundamental graph algorithms including Depth-First Search, Breadth-First Search, Topological Sort, Strongly Connected Components, and Articulation Points and Bridges.
 
-### Depth-First Search
+## Depth-First Search
 Depth-First Search (DFS) is a graph traversal algorithm that explores vertices as far as possible along each branch before backtracking. It uses a stack data structure (or recursion) to maintain the order of exploration. DFS is used to detect cycles in a graph, find connected components, and perform topological sorting.
 
 #### Key Points:
@@ -654,7 +654,7 @@ Depth-First Search (DFS) is a graph traversal algorithm that explores vertices a
 
 ---
 
-### Breadth-First Search
+## Breadth-First Search
 Breadth-First Search (BFS) is a graph traversal algorithm that explores all vertices at the present depth level before moving on to vertices at the next depth level. It uses a queue data structure to maintain the order of exploration. BFS is used to find the shortest path in an unweighted graph, discover connected components, and solve puzzles with multiple solutions.
 
 #### Key Points:
@@ -666,7 +666,7 @@ Breadth-First Search (BFS) is a graph traversal algorithm that explores all vert
 
 ---
 
-### Topological Sort
+## Topological Sort
 Topological Sort is an algorithm used to linearly order vertices in a directed acyclic graph (DAG). It arranges vertices such that for any directed edge uv from vertex u to vertex v, u comes before v in the ordering. Topological Sort is used in scheduling tasks with dependencies, compiling programming languages, and resolving precedence constraints in project planning.
 
 #### Key Points:
@@ -678,7 +678,7 @@ Topological Sort is an algorithm used to linearly order vertices in a directed a
 
 ---
 
-### Strongly Connected Components
+## Strongly Connected Components
 Strongly Connected Components (SCCs) are subgraphs where every vertex is reachable from every other vertex within the subgraph. Tarjan's and Kosaraju's algorithms are commonly used to find SCCs in directed graphs. SCCs have applications in analyzing network connectivity, graph clustering, and modeling relationships in social networks.
 
 #### Key Points:
@@ -690,7 +690,7 @@ Strongly Connected Components (SCCs) are subgraphs where every vertex is reachab
 
 ---
 
-### Articulation Points and Bridges
+## Articulation Points and Bridges
 Articulation Points (or Cut Vertices) are vertices in a graph that, if removed, increase the number of connected components. Bridges (or Cut Edges) are edges that, if removed, increase the number of connected components. Tarjan's algorithm can identify both articulation points and bridges efficiently. They are used in network analysis, routing algorithms, and fault-tolerant design in communication networks.
 
 #### Key Points:
@@ -846,10 +846,10 @@ Bit Manipulation Tricks are techniques to manipulate bits in binary representati
 #### 🛠️ Resources to Learn Bit Manipulation Tricks:
 - [GeeksforGeeks: Bit Manipulation Tricks](https://www.geeksforgeeks.org/bitwise-operators-set-1-introduction/)
 
-## Advanced Topics
+# Advanced Topics
 This section explores advanced algorithms and data structures that tackle complex problems in various domains. It includes trie-based algorithms, suffix trees and arrays, computational geometry, number theory, and string algorithms.
 
-### Trie-based Algorithms
+## Trie-based Algorithms
 Trie-based Algorithms utilize trie (prefix tree) data structures for efficient string manipulation and retrieval operations. Trie is used in auto-completion systems, spell checkers, and efficient storage of dictionaries. Auto-completion suggests words based on prefix matches, while spell checkers verify the correctness of words in a document.
 
 #### Subsections:
@@ -858,7 +858,7 @@ Trie-based Algorithms utilize trie (prefix tree) data structures for efficient s
 
 ---
 
-#### Auto-completion
+### Auto-completion
 Auto-completion is a trie-based algorithm that predicts and suggests words based on partial input. It efficiently retrieves words matching a prefix, making it essential in search engines, text editors, and command-line interfaces for improving user interaction.
 
 #### Key Points:
@@ -870,7 +870,7 @@ Auto-completion is a trie-based algorithm that predicts and suggests words based
 
 ---
 
-#### Spell Checker
+### Spell Checker
 Spell Checker is a trie-based algorithm that verifies the correctness of words against a dictionary. It identifies and suggests corrections for misspelled words by checking their presence and similarity in the trie structure.
 
 #### Key Points:
@@ -882,7 +882,7 @@ Spell Checker is a trie-based algorithm that verifies the correctness of words a
 
 ---
 
-### Suffix Trees and Arrays
+## Suffix Trees and Arrays
 Suffix Trees and Arrays are data structures that store all suffixes of a string in a compressed form. They facilitate efficient substring searches, longest repeated substring finding, and pattern matching in genomic sequence analysis, bioinformatics, and string processing applications.
 
 #### Key Points:
@@ -895,7 +895,7 @@ Suffix Trees and Arrays are data structures that store all suffixes of a string 
 
 ---
 
-### Computational Geometry
+## Computational Geometry
 Computational Geometry deals with algorithms and data structures for solving geometric problems. It includes geometric primitives (points, lines, polygons), geometric transformations, convex hulls, Voronoi diagrams, and algorithms for spatial data analysis, robotics, computer graphics, and geographic information systems (GIS).
 
 #### Key Points:
@@ -907,7 +907,7 @@ Computational Geometry deals with algorithms and data structures for solving geo
 
 ---
 
-### Number Theory
+## Number Theory
 Number Theory explores properties and relationships of integers. It includes algorithms like Euler's Totient Function (counts integers up to a given number that are coprime with it) and Mobius Function (determines the number of prime factors of a number). Number Theory is fundamental in cryptography, number systems, and mathematical research.
 
 #### Subsections:
@@ -916,7 +916,7 @@ Number Theory explores properties and relationships of integers. It includes alg
 
 ---
 
-#### Euler's Totient Function
+### Euler's Totient Function
 Euler's Totient Function computes the count of integers up to a given number that are coprime with it. It is used in cryptographic algorithms, number theory, and modular arithmetic.
 
 #### Key Points:
@@ -928,7 +928,7 @@ Euler's Totient Function computes the count of integers up to a given number tha
 
 ---
 
-#### Mobius Function
+### Mobius Function
 Mobius Function calculates the number of prime factors of a number and their powers. It is employed in number theory, analyzing arithmetic functions, and understanding the properties of integers.
 
 #### Key Points:
@@ -940,7 +940,7 @@ Mobius Function calculates the number of prime factors of a number and their pow
 
 ---
 
-### String Algorithms
+## String Algorithms
 String Algorithms focus on efficient manipulation and processing of textual data. They include algorithms like Knuth-Morris-Pratt (KMP) for substring search and Rabin-Karp for string matching using hashing techniques. String algorithms are essential in text processing, bioinformatics, and data compression.
 
 #### Subsections:
@@ -949,7 +949,7 @@ String Algorithms focus on efficient manipulation and processing of textual data
 
 ---
 
-#### KMP Algorithm
+### KMP Algorithm
 Knuth-Morris-Pratt (KMP) Algorithm efficiently searches for occurrences of a "needle" substring within a "haystack" string. It uses prefix function to avoid unnecessary comparisons and is widely used in text processing and pattern matching applications.
 
 #### Key Points:
@@ -961,7 +961,7 @@ Knuth-Morris-Pratt (KMP) Algorithm efficiently searches for occurrences of a "ne
 
 ---
 
-#### Rabin-Karp Algorithm
+### Rabin-Karp Algorithm
 Rabin-Karp Algorithm performs pattern matching using hashing techniques. It computes hash values of the pattern and substrings of the text, allowing for quick comparison and identification of potential matches. Rabin-Karp is utilized in plagiarism detection, fingerprint recognition, and cryptographic applications.
 
 #### Key Points:
@@ -970,7 +970,8 @@ Rabin-Karp Algorithm performs pattern matching using hashing techniques. It comp
 
 #### 🛠️ Resources to Learn Rabin-Karp Algorithm:
 - [GeeksforGeeks: Rabin-Karp Algorithm](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
-## Online Platforms
+
+# Online Platforms
 This section covers popular online platforms that provide coding challenges, competitions, and resources for improving algorithmic skills and preparing for technical interviews.
 
 ### LeetCode
