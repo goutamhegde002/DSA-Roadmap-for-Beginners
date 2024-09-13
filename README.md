@@ -997,3 +997,14 @@ HackerRank is an online platform offering coding challenges and competitions acr
 #### 🛠️ Resources to Learn More:
 - [HackerRank Official Site](https://www.hackerrank.com/)
 
+## Contribution Guide
+
+Contributions to the DSA Roadmap for Beginners are welcome! If you’d like to contribute, please follow these steps:
+
+1. **Fork the repository**: Create your own copy of the repository by forking it on GitHub.
+2. **Clone your fork**: Clone your fork to your local machine using `git clone`.
+3. **Create a new branch**: Create a new branch for your changes using `git checkout -b your-branch-name`.
+4. **Make your changes**: Implement your changes or add new content.
+5. **Commit your changes**: Commit your changes with a descriptive message using `git commit -m "Your message"`.
+6. **Push your changes**: Push your changes to your forked repository using `git push origin your-branch-name`.
+7. **Create a pull request**: Open a pull request on GitHub from your forked repository’s branch to the main repository’s branch.
