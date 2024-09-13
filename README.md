@@ -124,12 +124,6 @@ Queues are First In, First Out (FIFO) data structures.
 
 # Advanced Data Structures 🚀
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/dsaTracker?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/dsaTracker?style=social)
-![Contributors](https://img.shields.io/github/contributors/yourusername/dsaTracker)
-![Issues](https://img.shields.io/github/issues/yourusername/dsaTracker)
-![License](https://img.shields.io/github/license/yourusername/dsaTracker)
-
 This section covers advanced data structures essential for building efficient algorithms and solving complex problems. Dive deep into **Trees**, **Graphs**, and more advanced topics to strengthen your knowledge of data structures and algorithms.
 
 ---
